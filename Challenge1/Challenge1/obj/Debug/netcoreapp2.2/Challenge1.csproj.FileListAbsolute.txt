@@ -1,0 +1,11 @@
+D:\Projects\Challenge1\Challenge1\bin\Debug\netcoreapp2.2\Challenge1.deps.json
+D:\Projects\Challenge1\Challenge1\bin\Debug\netcoreapp2.2\Challenge1.runtimeconfig.json
+D:\Projects\Challenge1\Challenge1\bin\Debug\netcoreapp2.2\Challenge1.runtimeconfig.dev.json
+D:\Projects\Challenge1\Challenge1\bin\Debug\netcoreapp2.2\Challenge1.dll
+D:\Projects\Challenge1\Challenge1\bin\Debug\netcoreapp2.2\Challenge1.pdb
+D:\Projects\Challenge1\Challenge1\obj\Debug\netcoreapp2.2\Challenge1.csprojAssemblyReference.cache
+D:\Projects\Challenge1\Challenge1\obj\Debug\netcoreapp2.2\Challenge1.csproj.CoreCompileInputs.cache
+D:\Projects\Challenge1\Challenge1\obj\Debug\netcoreapp2.2\Challenge1.AssemblyInfoInputs.cache
+D:\Projects\Challenge1\Challenge1\obj\Debug\netcoreapp2.2\Challenge1.AssemblyInfo.cs
+D:\Projects\Challenge1\Challenge1\obj\Debug\netcoreapp2.2\Challenge1.dll
+D:\Projects\Challenge1\Challenge1\obj\Debug\netcoreapp2.2\Challenge1.pdb
